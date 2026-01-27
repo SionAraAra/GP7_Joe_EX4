@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Map.umap",
+				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_Toddler.uasset",
+				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/BP_PartollePoint.uasset",
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset",
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset",
@@ -73,8 +76,7 @@
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset",
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset",
 				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset",
-				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Lvl_ThirdPerson.umap",
-				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_Toddler.uasset"
+				"C:/Users/joesc/OneDrive - 365education/Documents/School/School/Semester 3/GAMLE3/GP7_Joe_EX4/JoeS_GAMLE3_x4/Content/ThirdPerson/Lvl_ThirdPerson.umap"
 			]
 		}
 	]
